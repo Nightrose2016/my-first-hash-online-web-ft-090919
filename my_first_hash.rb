@@ -4,6 +4,7 @@ def my_hash
   "name" => "lialah",
   "age" => "26",
   "hobby" => "gaming"
+  }
   
 end
 
